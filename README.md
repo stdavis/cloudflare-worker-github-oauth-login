@@ -10,7 +10,7 @@ The worker does 3 things
 2. It accepts a `POST` request with the OAuth `code` retrieved from the OAuth callback redirect and returns an OAuth access token in return
 3. It enables CORS.
 
-The [index.html](index.html) file is a demo of a "Login with GitHub", you cann see the demo at [gr2m.github.io/cloudflare-worker-github-oauth-login/index.html](https://gr2m.github.io/cloudflare-worker-github-oauth-login/index.html). Look at its source code. If something is unclear, please feel free to [open an issue](https://github.com/gr2m/cloudflare-worker-github-oauth-login/issues) or [ping me on twitter](https://twitter.com/gr2m).
+The [index.html](index.html) file is a demo of a "Login with GitHub", you can see the demo at [gr2m.github.io/cloudflare-worker-github-oauth-login/index.html](https://gr2m.github.io/cloudflare-worker-github-oauth-login/index.html). Look at its source code. If something is unclear, please feel free to [open an issue](https://github.com/gr2m/cloudflare-worker-github-oauth-login/issues) or [ping me on twitter](https://twitter.com/gr2m).
 
 ## Step-by-step instructions to create your own
 
